@@ -2,6 +2,11 @@
 
 #YelpCamp
 
+Start Planning Your Next Trip!!
+
+This YelpCamp will help you to decide to pick camping places to visit. Our users post some of the Campground daily to help you with proper description!!
+Enjoy Camping!!
+
 ##DEVELOPMENT PROCESS:
 --------------------------------------------------------
 ##Initial Setup
