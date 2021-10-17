@@ -1,6 +1,6 @@
 # subratyelpcamp
 
-#YelpCamp
+#YelpCam
 
 Start Planning Your Next Trip!!
 
